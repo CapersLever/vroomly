@@ -1,6 +1,0 @@
-name: vroomly-prod
-services:
-- name: web
-  github:
-    repo: https://github.com/CapersLever/vroomly
-    branch: main
