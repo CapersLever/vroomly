@@ -1,9 +1,9 @@
 spec:
-  name: sample-flask
+  name: vroomly-prod
   services:
   - name: web
     git:
       branch: main
-      repo_clone_url: https://github.com/digitalocean/sample-flask.git
+      repo_clone_url: https://github.com/CapersLever/vroomly
     instance_count: 1
     instance_size_slug: apps-s-1vcpu-0.5gb
