@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "vroomlygroup.com",
+  "Id": "3410487c-6d01-4009-a04d-e0100968eb27"
+}
